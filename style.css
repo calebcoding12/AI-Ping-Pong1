@@ -1,0 +1,19 @@
+body
+{
+  background-size: cover;
+}
+.heading h1{
+    display: inline;
+}
+.heading {
+    width: 100%;
+    text-align: left;
+    height: 70px;
+    font-size: 40px;
+}
+.heading button{
+    float: right;
+    border: 3px solid white;
+    font-size: 20px;
+    height: 60px;
+}
